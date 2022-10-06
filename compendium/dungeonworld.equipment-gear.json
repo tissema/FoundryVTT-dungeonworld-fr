@@ -1,0 +1,53 @@
+{
+	"label": "Équipement (Matériel)",
+	"entries": [
+		{
+			"id": "Adventuring Gear",
+			"name": "Sac d’aventurier"
+		},
+		{
+			"id": "Anti-Toxin",
+			"name": "Antidotes"
+		},
+		{
+			"id": "Bag of Books",
+			"name": "Sac de bouquins"
+		},
+		{
+			"id": "Bandages",
+			"name": "Bandages"
+		},
+		{
+			"id": "Dungeon Rations",
+			"name": "Rations"
+		},
+		{
+			"id": "Dwarven Hardtack",
+			"name": "Pain dur nain"
+		},
+		{
+			"id": "Elven Bread",
+			"name": "Pain elfique"
+		},
+		{
+			"id": "Halfling Pipeleaf",
+			"name": "Herbe de Halfelin"
+		},
+		{
+			"id": "Healing Potion",
+			"name": "Potion de soin"
+		},
+		{
+			"id": "Keg of Dwarven Stout",
+			"name": "Fût de bière naine"
+		},
+		{
+			"id": "Personal Feast",
+			"name": "Festin personnel"
+		},
+		{
+			"id": "Poultices and Herbs",
+			"name": "Cataplasmes et herbes"
+		}
+	]
+}

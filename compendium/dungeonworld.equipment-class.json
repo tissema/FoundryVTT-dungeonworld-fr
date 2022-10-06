@@ -1,0 +1,63 @@
+{
+	"label": "Équipement (Classe)",
+	"mapping": {
+		"name": "name",
+		"description": "system.description"
+	},
+	"entries": [
+		{
+			"id": "Fiddle",
+			"name": "Violon",
+			"description": "<p>Le violon est un instrument de musique &agrave; cordes frott&eacute;es. Il poss&egrave;de quatre cordes accord&eacute;es g&eacute;n&eacute;ralement &agrave; la quinte, que l'instrumentiste, appel&eacute; violoniste, frotte avec un archet et pince avec l'index ou le pouce.</p><p>Il peut s'agir par exemple d'un <em>violon n'ayant jamais servi</em>.</p>"
+		},
+		{
+			"id": "Horn",
+			"name": "Corne"
+		},
+		{
+			"id": "Lute",
+			"name": "Luth"
+		},
+		{
+			"id": "Mandolin",
+			"name": "Mandoline"
+		},
+		{
+			"id": "Mark of Faith",
+			"name": "Signe de votre foi"
+		},
+		{
+			"id": "Pipes",
+			"name": "Flûte"
+		},
+		{
+			"id": "Poison",
+			"name": "Poison",
+			"description": ""
+		},
+		{
+			"id": "Signature Weapon",
+			"name": "Arme fétiche"
+		},
+		{
+			"id": "Songbook",
+			"name": "Livret de chants"
+		},
+		{
+			"id": "Spellbook",
+			"name": "Grimoire de sorts"
+		},
+		{
+			"id": "Symbol",
+			"name": "Symbole"
+		},
+		{
+			"id": "Symbol of the Devine",
+			"name": "Symbole de votre divinité"
+		},
+		{
+			"id": "Token",
+			"name": "Souvenir"
+		}
+	]
+}

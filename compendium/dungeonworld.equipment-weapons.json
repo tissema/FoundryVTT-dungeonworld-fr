@@ -1,0 +1,106 @@
+{
+	"label": "Équipement (Armes)",
+	"entries": [
+		{
+			"id": "Axe",
+			"name": "Hache"
+		},
+		{
+			"id": "Battle Axe",
+			"name": "Hache de Bataille"
+		},
+		{
+			"id": "Bundle of Arrows",
+			"name": "Carquois et Flèches"
+		},
+		{
+			"id": "Club",
+			"name": "Massue"
+		},
+		{
+			"id": "Crossbow",
+			"name": "Arbalète"
+		},
+		{
+			"id": "Dagger",
+			"name": "Dague"
+		},
+		{
+			"id": "Dueling Rapier",
+			"name": "Rapière de duel"
+		},
+		{
+			"id": "Elven Arrows",
+			"name": "Flèches Elfiques"
+		},
+		{
+			"id": "Fine Bow",
+			"name": "Arc Fin"
+		},
+		{
+			"id": "Flail",
+			"name": "Fléau"
+		},
+		{
+			"id": "Halberd",
+			"name": "Arme d’Hast"
+		},
+		{
+			"id": "Hunter's Bow",
+			"name": "Arc de Chasse"
+		},
+		{
+			"id": "Knife",
+			"name": "Couteau"
+		},
+		{
+			"id": "Long Sword",
+			"name": "Épée Longue"
+		},
+		{
+			"id": "Mace",
+			"name": "Marteau"
+		},
+		{
+			"id": "Ragged Bow",
+			"name": "Arc Rudimentaire"
+		},
+		{
+			"id": "Rapier",
+			"name": "Rapière"
+		},
+		{
+			"id": "Shillelagh",
+			"name": "Matraque"
+		},
+		{
+			"id": "Shiv",
+			"name": "Pointe"
+		},
+		{
+			"id": "Short Sword",
+			"name": "Épée Courte"
+		},
+		{
+			"id": "Spear",
+			"name": "Épieu"
+		},
+		{
+			"id": "Staff",
+			"name": "Bâton"
+		},
+		{
+			"id": "Throwing Dagger",
+			"name": "Dague/couteau de lancer"
+		},
+		{
+			"id": "Two-handed sword",
+			"name": "Épée à deux mains",
+			"description": ""
+		},
+		{
+			"id": "War hammer",
+			"name": "Masse"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"label": "Équipement (Poisons)",
+	"entries": [
+		{
+			"id": "Bloodweed",
+			"name": "Herbe sanglante"
+		},
+		{
+			"id": "Goldenroot",
+			"name": "Racine d’or"
+		},
+		{
+			"id": "Oil of Tagit",
+			"name": "Huile de Tagit"
+		},
+		{
+			"id": "Serpent's Tears",
+			"name": "Larmes de serpent"
+		}
+	]
+}

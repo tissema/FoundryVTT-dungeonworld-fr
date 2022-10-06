@@ -1,0 +1,161 @@
+{
+	"label": "Équipement (Magie)",
+	"entries": [
+		{
+			"id": "Argo-Thaan, Holy Avenger",
+			"name": "Argo-Thaan, Sainte-Vengeresse"
+		},
+		{
+			"id": "Arrows of Acheron",
+			"name": "Flèches d’Achéron"
+		},
+		{
+			"id": "Axe of the Conqueror-King",
+			"name": "Hache du Roi-Conquérant"
+		},
+		{
+			"id": "Bag of Holding",
+			"name": "Sac de transport"
+		},
+		{
+			"id": "Barb of the Black Gate",
+			"name": "Pointe du Sombre Portail"
+		},
+		{
+			"id": "Captain Bligh’s Cornucopia",
+			"name": "La corne d’abondance du Capitaine Bligh"
+		},
+		{
+			"id": "Cloak of Silent Stars",
+			"name": "La Cape des Étoiles Silencieuses"
+		},
+		{
+			"id": "Coin of Remembering",
+			"name": "Piécette du Souvenir"
+		},
+		{
+			"id": "Common Scroll",
+			"name": "Parchemin ordinaire"
+		},
+		{
+			"id": "Devilsbane Oil",
+			"name": "Huile de Fléau du Diable"
+		},
+		{
+			"id": "Earworm Wax",
+			"name": "Cire de ver d’oreille"
+		},
+		{
+			"id": "Farsight Stone",
+			"name": "Pierre de Longuevue"
+		},
+		{
+			"id": "Flask of Breath",
+			"name": "Flacon de Souffle"
+		},
+		{
+			"id": "Folly Held Aloft, The Wax Wings, A Huge Mistake",
+			"name": "La folie déployée, Les ailes de cire, Une énorme erreur"
+		},
+		{
+			"id": "Immovable Rod",
+			"name": "La baguette inamovible"
+		},
+		{
+			"id": "Infinite Book",
+			"name": "Le livre infini"
+		},
+		{
+			"id": "Inspectacles",
+			"name": "Inspectrices"
+		},
+		{
+			"id": "Lamented Memento",
+			"name": "Memento Mori"
+		},
+		{
+			"id": "Lodestone Shield",
+			"name": "Le Bouclier Aimant"
+		},
+		{
+			"id": "Map of the Last Patrol",
+			"name": "Carte de la Dernière Patrouille"
+		},
+		{
+			"id": "Ned’s Head",
+			"name": "La Tête de Ned"
+		},
+		{
+			"id": "Nightsider’s Key",
+			"name": "Clé du Noctambule"
+		},
+		{
+			"id": "Sacred Herbs",
+			"name": "Herbes sacrées"
+		},
+		{
+			"id": "Tears of Annalise",
+			"name": "Larmes d’Anne-Lise"
+		},
+		{
+			"id": "Teleportation Room",
+			"name": "Chambre de Téléportation"
+		},
+		{
+			"id": "The Burning Wheel",
+			"name": "La Roue Ardente"
+		},
+		{
+			"id": "The Carcosan Spire",
+			"name": "La Flèche de Carcosa"
+		},
+		{
+			"id": "The Echo",
+			"name": "L’Écho"
+		},
+		{
+			"id": "The Epoch Lens",
+			"name": "La lentille d’Epoch"
+		},
+		{
+			"id": "The Fiasco Codex",
+			"name": "Le Codex du Fiasco"
+		},
+		{
+			"id": "The Ku’meh Maneuver",
+			"name": "La manœuvre de Ku’meh"
+		},
+		{
+			"id": "The Sartar Duck",
+			"name": "Le Canard de Sartar"
+		},
+		{
+			"id": "The Sterling Hand",
+			"name": "Le Miroir d’Argent"
+		},
+		{
+			"id": "Timunn’s Armor",
+			"name": "Armure de Timunn"
+		},
+		{
+			"id": "Titus’ Truthful Tallow",
+			"name": "Suif de Vérité de Titus"
+		},
+		{
+			"id": "Tricksy Rope",
+			"name": "Corde Astucieuse"
+		},
+		{
+			"id": "Vellius’s Gauntlets",
+			"name": "Gantelets de Vellius"
+		},
+		{
+			"id": "Violation Glaive",
+			"name": "Glaive d’Intrusion"
+		},
+		{
+			"id": "Vorpal Sword",
+			"name": "Épée Vorpale"
+		}
+	]
+}
