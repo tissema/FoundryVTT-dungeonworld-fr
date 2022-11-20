@@ -1,12 +1,12 @@
 #logo {
-  content: url("../assets/logo.png");
-  width: 150px;
+  content: url("../assets/logo.webp");
+  width: 120px;
   height: auto;
   padding-right: 10px;  
 }
 
 #pause > img {
-  content: url("../assets/pause.png");
+  content: url("../assets/pause.webp");
   height: 220px;
   width: 220px;
   top: -22px;
@@ -20,4 +20,8 @@
 
 #pause > figcaption {
   text-shadow: 0px 0px 30px brown;
+}
+
+.item-icon {
+  border: 0px;
 }

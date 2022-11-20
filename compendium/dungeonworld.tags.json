@@ -1,5 +1,5 @@
 {
-	"label": "Tags",
+	"label": "Étiquettes",
 	"entries": [
 		{
 			"id": "-1 forward",
@@ -7,20 +7,20 @@
 		},
 		{
 			"id": "+1 damage",
-			"name": "+1 aux dégâts"
+			"name": "+1 dégâts"
 		},
 		{
 			"id": "+1 ongoing",
-			"name": "+1 à continuer",
+			"name": "+1 continu",
 			"description": ""
 		},
 		{
 			"id": "+2 damage",
-			"name": "+2 aux dégâts"
+			"name": "+2 dégâts"
 		},
 		{
 			"id": "+3 damage",
-			"name": "+3 aux dégâts"
+			"name": "+3 dégâts"
 		},
 		{
 			"id": "1 ammo",
@@ -28,11 +28,11 @@
 		},
 		{
 			"id": "1 armor",
-			"name": "1 armor"
+			"name": "1 armure"
 		},
 		{
 			"id": "1 piercing",
-			"name": "1 en dégât perforant"
+			"name": "1 perforant"
 		},
 		{
 			"id": "2 ammo",
@@ -40,11 +40,11 @@
 		},
 		{
 			"id": "2 armor",
-			"name": "2 armor"
+			"name": "2 armure"
 		},
 		{
 			"id": "2 piercing",
-			"name": "2 en dégâts perforants"
+			"name": "2 perforants"
 		},
 		{
 			"id": "3 ammo",
@@ -52,11 +52,11 @@
 		},
 		{
 			"id": "3 armor",
-			"name": "3 armor"
+			"name": "3 armure"
 		},
 		{
 			"id": "3 piercing",
-			"name": "3 en dégâts perforants"
+			"name": "3 perforants"
 		},
 		{
 			"id": "4 ammo",
@@ -64,59 +64,59 @@
 		},
 		{
 			"id": "Amorphous",
-			"name": "Amorphous"
+			"name": "Informe"
 		},
 		{
 			"id": "Applied",
-			"name": "Applied"
+			"name": "Appliquer"
 		},
 		{
 			"id": "Awkward",
-			"name": "Awkward"
+			"name": "Maladroit"
 		},
 		{
 			"id": "Cautious",
-			"name": "Cautious"
+			"name": "Prudent"
 		},
 		{
 			"id": "Close",
-			"name": "Close"
+			"name": "Proche"
 		},
 		{
 			"id": "Clumsy",
-			"name": "Clumsy"
+			"name": "Encombrant"
 		},
 		{
 			"id": "Construct",
-			"name": "Construct"
+			"name": "Construction"
 		},
 		{
 			"id": "Dangerous",
-			"name": "Dangerous"
+			"name": "Dangereux"
 		},
 		{
 			"id": "Devious",
-			"name": "Devious"
+			"name": "Fourbe"
 		},
 		{
 			"id": "Far",
-			"name": "Far"
+			"name": "Longue"
 		},
 		{
 			"id": "Forceful",
-			"name": "Forceful"
+			"name": "Puissant"
 		},
 		{
 			"id": "Group",
-			"name": "Group"
+			"name": "Groupe"
 		},
 		{
 			"id": "Hand",
-			"name": "Hand"
+			"name": "Contact"
 		},
 		{
 			"id": "Hoarder",
-			"name": "Hoarder"
+			"name": "Thésauriseur"
 		},
 		{
 			"id": "Horde",
@@ -124,11 +124,11 @@
 		},
 		{
 			"id": "Huge",
-			"name": "Huge"
+			"name": "Énorme"
 		},
 		{
 			"id": "Ignores Armor",
-			"name": "Ignores Armor"
+			"name": "Ignore l’armure"
 		},
 		{
 			"id": "Intelligent",
@@ -136,31 +136,31 @@
 		},
 		{
 			"id": "Large",
-			"name": "Large"
+			"name": "Grand"
 		},
 		{
 			"id": "Magical",
-			"name": "Magical"
+			"name": "Magique"
 		},
 		{
 			"id": "Messy",
-			"name": "Messy"
+			"name": "Dévastateur"
 		},
 		{
 			"id": "Near",
-			"name": "Near"
+			"name": "Courte"
 		},
 		{
 			"id": "Organized",
-			"name": "Organized"
+			"name": "Organisé"
 		},
 		{
 			"id": "Planar",
-			"name": "Planar"
+			"name": "Planaire"
 		},
 		{
 			"id": "Precise",
-			"name": "Precise"
+			"name": "Précis"
 		},
 		{
 			"id": "Ration",
@@ -168,63 +168,63 @@
 		},
 		{
 			"id": "Reach",
-			"name": "Reach"
+			"name": "Allonge"
 		},
 		{
 			"id": "Reload",
-			"name": "Reload"
+			"name": "Recharge"
 		},
 		{
 			"id": "Requires",
-			"name": "Requires"
+			"name": "Requiert"
 		},
 		{
 			"id": "Requires Dwarf",
-			"name": "Requires Dwarf"
+			"name": "Requiert : nain"
 		},
 		{
 			"id": "Slow",
-			"name": "Slow"
+			"name": "Lent"
 		},
 		{
 			"id": "Small",
-			"name": "Small"
+			"name": "Petit"
 		},
 		{
 			"id": "Solitary",
-			"name": "Solitary"
+			"name": "Solitaire"
 		},
 		{
 			"id": "Stealthy",
-			"name": "Stealthy"
+			"name": "Furtif"
 		},
 		{
 			"id": "Stun",
-			"name": "Stun"
+			"name": "Assomme"
 		},
 		{
 			"id": "Terrifying",
-			"name": "Terrifying"
+			"name": "Terrifiant"
 		},
 		{
 			"id": "Thrown",
-			"name": "Thrown"
+			"name": "Lancé"
 		},
 		{
 			"id": "Tiny",
-			"name": "Tiny"
+			"name": "Minuscule"
 		},
 		{
 			"id": "Touch",
-			"name": "Touch"
+			"name": "Toucher"
 		},
 		{
 			"id": "Two-handed",
-			"name": "Two-handed"
+			"name": "2 mains"
 		},
 		{
 			"id": "Worn",
-			"name": "Worn"
+			"name": "Porté"
 		}
 	]
 }
