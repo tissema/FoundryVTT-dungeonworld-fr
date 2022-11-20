@@ -1,9 +1,8 @@
 # Module dungeonworld-fr pour Foundry VTT
-Améliorer votre expérience de jeu avec ce module de traduction VF pour la version Kult Divinity Lost 4th Edition d'astarte-horns pour Foundry VTT.
+Améliorer votre expérience de jeu avec ce module de traduction intégrale VF pour la version Dungeon World d'astarte-horns pour Foundry VTT.
 
-![Capture d’écran 2022-05-25 102005](https://user-images.githubusercontent.com/100078854/170216934-6d92f928-4d67-4540-b87f-fd48e9e2914a.jpg)
-![Capture d’écran 2022-05-25 102403](https://user-images.githubusercontent.com/100078854/170216982-7555c171-d6bd-4278-9979-839345d2cc5c.jpg)
-![Capture d’écran 2022-05-25 102456](https://user-images.githubusercontent.com/100078854/170216996-e424cca4-67af-409a-b2b4-b7a0c9d74876.jpg)
+![Capture d’écran 2022-11-20 125446](https://user-images.githubusercontent.com/100078854/202900602-9292b8a9-f61c-4114-bbb3-273fd731de8d.jpg)
+![Capture d’écran 2022-11-20 125713](https://user-images.githubusercontent.com/100078854/202900603-889e9b72-d747-46da-8bd6-15a93cfdf2dd.jpg)
 
 Si vous aimez utiliser mes modules, pensez à me soutenir sur Tipeee (https://fr.tipeee.com/yank/news).
 
