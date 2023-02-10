@@ -11,7 +11,11 @@
     "entries": [{
             "id": "Burning Brand",
             "name": "Tison ardent",
-            "description": "<p>Lorsque vous invoquez une arme de feu, lancez 2d6+CON. Sur 10+ choisissez deux des marqueurs suivants. Sur 7-9 choisissez-en un. Vous pouvez remplacer votre FOR ou votre DEX par INT pour vos attaques avec cette arme. L’arme démarre toujours avec les marqueurs <em>enflammé</em>, <em>toucher</em>, <em>dangereux</em> et <em>3 utilisations</em>. Chaque attaque avec cette arme dépense une utilisation.</p>\n<ul>\n<li><em>Contact</em></li>\n<li><em>Lancé</em>, <em>Courte</em></li>\n<li>+1 dégâts</li>\n<li> Retirez le marqueur <em>dangereux</em>/li>\n</ul>"
+            "description": "<p>Lorsque vous invoquez une arme de feu, lancez 2d6+CON. Vous pouvez remplacer votre FOR ou votre DEX par INT pour vos attaques avec cette arme. L’arme démarre toujours avec les marqueurs <em>enflammé</em>, <em>toucher</em>, <em>dangereux</em> et <em>3 utilisations</em>. Chaque attaque avec cette arme dépense une utilisation.</p>",
+            "failure": "<p></p>",
+			"partial": "<p>Choisissez un des marqueurs suivants.<p>",
+			"success": "<p>Choisissez deux des marqueurs suivants.</p>",
+			"choices": "<ul><li><em>Contact</em></li><li><em>Lancé</em>, <em>Courte</em></li><li>+1 dégâts</li><li> Retirez le marqueur <em>dangereux</em></li></ul>"
         },
         {
             "id": "Burning Bridges",
@@ -21,7 +25,10 @@
         {
             "id": "Burning Ring Of Fire",
             "name": "Chaînon de feu",
-            "description": "<p>Quand vous fusionnez avec l’âme d’une personne consentante, lancez 2d6+CHA. Sur un succès, vous êtes liés, capables de partager vos émotions et de sentir vos présences réciproques quelle que soit la distance. Sur 7-9, la connexion est instable et dangereuse : lorsque l’un de vous subit un handicap, l’autre le subit également. Sur un échec, la liaison ne tient pas et vous devez effacer tout lien en commun. Vous pourrez en recréer d’autres ensuite lors d’une <em>fin de session</em>. Une fois réalisée, la fusion ne peut être rompue par un mortel.</p>"
+            "description": "<p>Quand vous fusionnez avec l’âme d’une personne consentante, lancez 2d6+CHA.</p>",
+            "failure": "<p>La liaison ne tient pas et vous devez effacer tout lien en commun. Vous pourrez en recréer d’autres ensuite lors d’une <em>fin de session</em>.</p>",
+			"partial": "<p>La connexion est instable et dangereuse : lorsque l’un de vous subit un handicap, l’autre le subit également. Une fois réalisée, la fusion ne peut être rompue par un mortel.<p>",
+			"success": "<p>Vous êtes lié·e·s, capables de partager vos émotions et de sentir vos présences réciproques quelle que soit la distance. Une fois réalisée, la fusion ne peut être rompue par un mortel.</p>"
         },
         {
             "id": "Burns Half As Long",
@@ -31,7 +38,7 @@
         {
             "id": "Burns Twice As Bright",
             "name": "Brûler la chandelle par les deux bouts",
-            "description": "<p>Lorsque vous canalisez les flammes du destin, vous pouvez traiter un jet manqué comme un 7-9 ou un 7-9 comme un 10+. Ce peut être votre jet ou celui de quelqu’un d’autre. Dites au MJ ce que vous avez perdu : une émotion, un souvenir ou une part innée de votre être. Vous ne pouvez utiliser cette action une nouvelle fois tant que vous n’avez pas utilisé <em>Faire long feu</em>.</p>"
+            "description": "<p>Lorsque vous canalisez les flammes du destin, vous pouvez traiter un jet manqué comme un 7-9 ou un 7-9 comme un 10+. Ce peut être votre jet ou celui de quelqu’un d’autre. Dites à lae MJ ce que vous avez perdu : une émotion, un souvenir ou une part innée de votre être. Vous ne pouvez utiliser cette action une nouvelle fois tant que vous n’avez pas utilisé <em>Faire long feu</em>.</p>"
         },
         {
             "id": "Fanning The Flames",
@@ -46,7 +53,10 @@
         {
             "id": "Firebrand",
             "name": "Brûlot",
-            "description": "<p>Lorsque vous présentez une idée nouvelle à un PNJ, lancez 2d6+CHA. Sur 10+ il s’empare de votre idée pour la faire sienne avec ardeur. Sur 7-9, sa passion disparaît au bout d’un jour ou deux. Sur un échec, il réagit négativement et fait connaître son désaccord.</p>"
+            "description": "<p>Lorsque vous présentez une idée nouvelle à un·e PNJ, lancez 2d6+CHA.</p>",
+            "failure": "<p>Iel réagit négativement et fait connaître son désaccord.</p>",
+			"partial": "<p>Sa passion disparaît au bout d’un jour ou deux.</p>",
+			"success": "<p>Iel s’empare de votre idée pour la faire sienne avec ardeur.</p>"		
         },
         {
             "id": "From Hell’s Heart",  
@@ -56,7 +66,7 @@
         {
             "id": "Give Me Fuel, Give Me Fire",
             "name": "Allumeeeeer le feu !",
-            "description": "<p>Quand vous fixez intensément le regard d’une personne, vous pouvez demander à son joueur (MJ compris) ce qui attise les flammes de son désir. Il vous répondra sincèrement, même si le personnage ne le sait pas ou le garde pour lui habituellement.</p>"
+            "description": "<p>Quand vous fixez intensément le regard d’une personne, vous pouvez demander à son·sa joueur·euse (MJ compris·e) ce qui attise les flammes de son désir. Iel vous répondra sincèrement, même si le personnage ne le sait pas ou le garde pour iel habituellement.</p>"
         },
         {
             "id": "Hand Crafted",
@@ -66,12 +76,17 @@
         {
             "id": "Lore Of Flame",
             "name": "Légendes du feu",
-            "description": "<p>Lorsque vous fixez du regard une source de feu à la recherche de réponses, lancez 2d6+SAG. En cas de succès, le MJ vous dira quelque chose de nouveau et de profitable sur la situation en cours. Sur 10+, le MJ vous donnera des détails intéressants. Sur 7-9, le MJ vous donnera une impression. Si vous savez déjà tout ce qu’il y a à savoir, le MJ vous le dira.</p>"
+            "description": "<p>Lorsque vous fixez du regard une source de feu à la recherche de réponses, lancez 2d6+SAG. En cas de succès, lae MJ vous dira quelque chose de nouveau et de profitable sur la situation en cours. Si vous savez déjà tout ce qu’il y a à savoir, lae MJ vous le dira.</p>",
+			"partial": "<p>Lae MJ vous donnera une impression.<p>",
+			"success": "<p>Lae MJ vous donnera des détails intéressants.</p>"
         },
         {
             "id": "Moth To The Flame",
             "name": "Un papillon dans la flamme",
-            "description": "<p>Lorsque vous tentez un esprit faible à l’aide de votre feu intérieur, lancez 2d6+SAG. Sur 10+, sa volonté est abolie. Il vous suivra et obéira tant qu’il ne sera pas surpris ou effrayé. Sur 7-9, il est juste distrait ou confus. Sur un échec, il devient agité et contrarié car votre feu intérieur a allumé ses désirs secrets.</p>"
+            "description": "<p>Lorsque vous tentez un esprit faible à l’aide de votre feu intérieur, lancez 2d6+SAG.</p>",
+            "failure": "<p>Iel devient agité·e et contrarié·e car votre feu intérieur a allumé ses désirs secrets.</p>",
+			"partial": "<p>Iel est juste distrait·e ou confus·e.<p>",
+			"success": "<p>Sa volonté est abolie. Iel vous suivra et obéira tant qu’iel ne sera pas surpris·e ou effrayé·e.</p>"
         },
         {
             "id": "Ogdru Jahad",
@@ -81,12 +96,18 @@
         {
             "id": "Sick Burn",
             "name": "Cramé",
-            "description": "<p>Lorsque vous insultez un PNJ, lancez 2d6+CHA. Sur 10+, il est incapable de vous répondre et se prend de plein fouet votre insulte et le mépris de l’auditoire. Sur 7-9, vous avez franchi la limite et il prendra sa revanche, un jour. Sur un échec, vous êtes allé trop loin. Il explose sur le champ.</p>"
+            "description": "<p>Lorsque vous insultez un·e PNJ, lancez 2d6+CHA.</p>",
+            "failure": "<p>Vous êtes allé trop loin. Iel explose sur le champ.</p>",
+			"partial": "<p>Vous avez franchi la limite et iel prendra sa revanche, un jour.<p>",
+			"success": "<p>Iel est incapable de vous répondre et se prend de plein fouet votre insulte et le mépris de l’auditoire.</p>"
         },
         {
             "id": "The Enkindler",
             "name": "Enflammer les esprits",
-            "description": "<p>Lorsque vous soutenez le courage des autres, lancez 2d6+CHA. Sur 10+, ils deviennent soudainement courageux, oubliant leurs peurs ou leurs doutes. Sur 7-9, cet effet est passager et ils réalisent vite son inconsistance. Leur lâcheté refait surface au bout d’un moment. Sur un échec, ils sont intimidés voire terrifiés en votre présence.</p>"
+            "description": "<p>Lorsque vous soutenez le courage des autres, lancez 2d6+CHA.</p>",
+            "failure": "<p>Iels sont intimidé·e·s voire terrifié·e·s en votre présence.</p>",
+			"partial": "<p>Cet effet est passager et iels réalisent vite son inconsistance. Leur lâcheté refait surface au bout d’un moment.<p>",
+			"success": "<p>Iels deviennent soudainement courageux·ses, oubliant leurs peurs ou leurs doutes.</p>"
         },
         {
             "id": "This Killing Fire",
@@ -96,12 +117,17 @@
         {
             "id": "Watch The World Burn",
             "name": "Voir le monde s’embraser",
-            "description": "<p>Lorsque vous ouvrez un passage vers les plans du feu pour invoquer une tempête de flammes, dites au MJ ce que vous sacrifiez et lancez 2d6+SAG. Les cieux s’ouvrent pour déverser une pluie de feu sur une zone équivalente à celle d’un petit village. Tout ce qui se trouve là prend les dégâts appropriés.</p>\n<p>Sur 10+, vous pouvez étouffer la tempête sans trop d’efforts. Sur 7-9, le feu échappe à votre contrôle, s’étend et se répand au gré des vents. Sur un échec, quelque chose de cruel, d’intelligent et d’affamé vient avec la tempête.</p>"
+            "description": "<p>Lorsque vous ouvrez un passage vers les plans du feu pour invoquer une tempête de flammes, dites au MJ ce que vous sacrifiez et lancez 2d6+SAG. Les cieux s’ouvrent pour déverser une pluie de feu sur une zone équivalente à celle d’un petit village. Tout ce qui se trouve là prend les dégâts appropriés.</p>",
+            "failure": "<p>Quelque chose de cruel, d’intelligent et d’affamé vient avec la tempête.</p>",
+			"partial": "<p>Le feu échappe à votre contrôle, s’étend et se répand au gré des vents.<p>",
+			"success": "<p>Vous pouvez étouffer la tempête sans trop d’efforts.</p>"
         },
         {
             "id": "Zuko Style",
             "name": "La marque de Zuko",
-            "description": "<p>Lorsque vous pliez une flamme à votre volonté, lancez 2d6+SAG. Sur 10+ elle agit selon vos ordres et adopte la forme et le mouvement que vous souhaitez tant qu’elle a assez de combustible à brûler. Sur 7-9 l’effet ne dure qu’un moment.</p>"
+            "description": "<p>Lorsque vous pliez une flamme à votre volonté, lancez 2d6+SAG.</p>",
+			"partial": "<p>L’effet ne dure qu’un moment.<p>",
+			"success": "<p>Elle agit selon vos ordres et adopte la forme et le mouvement que vous souhaitez tant qu’elle a assez de combustible à brûler.</p>"
         }
     ]
 }

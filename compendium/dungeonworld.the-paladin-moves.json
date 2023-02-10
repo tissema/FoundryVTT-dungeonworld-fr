@@ -46,7 +46,7 @@
         {
             "id": "Evidence Of Faith",
             "name": "Manifestation divine",
-            "description": "<p><em>Requiert : Faveur divine</em></p>\n<p>Quand vous assistez à une manifestation de magie divine, vous pouvez demander au MJ quelle divinité a octroyé ce sort et quels sont ses effets.</p>"
+            "description": "<p><em>Requiert : Faveur divine</em></p>\n<p>Quand vous assistez à une manifestation de magie divine, vous pouvez demander à lae MJ quelle divinité a octroyé ce sort et quels sont ses effets.</p>"
         },
         {
             "id": "Exterminatus",
@@ -71,12 +71,16 @@
         {
             "id": "I Am The Law",
             "name": "La loi c’est moi",
-            "description": "<p>Quand vous donnez un ordre à un PNJ de par votre droit divin, lancez 2d6+CHA. Sur 7+, il choisit entre :</p>\n<ul><li>s’exécuter</li><li>reculer avec précaution avant de fuir</li><li>vous attaquer</li></ul>\n<p>Sur 10+, vous avez aussi +1 à suivre contre lui.</p>\n<p>Sur un échec, il fait ce qu’il veut et vous avez -1 à suivre contre lui.</p>"
+            "description": "<p>Quand vous donnez un ordre à un·e PNJ de par votre droit divin, lancez 2d6+CHA.</p>",
+            "failure": "<p>Iel fait ce qu’iel veut et vous avez -1 à suivre contre ellui.</p>",
+			"partial": "<p>Iel choisit entre :<p>",
+			"success": "<p>Vous avez +1 à suivre contre ellui et iel choisit entre :</p>",
+			"choices": "<ul><li>s’exécuter</li><li>reculer avec précaution avant de fuir</li><li>vous attaquer</li></ul>"
         },
         {
             "id": "Impervious Defender",
             "name": "Défenseur inébranlable",
-            "description": "<p><em>Remplace : Défenseur acharné</em></p>\n<p>Quand vous <em>défendez</em>, vous gagnez toujours +1 de retenue, même sur un 6-. Sur 12+, au lieu d’une retenue, votre adversaire le plus proche est entravé et vous obtenez un net avantage. Le MJ vous dira lequel.</p>"
+            "description": "<p><em>Remplace : Défenseur acharné</em></p>\n<p>Quand vous <em>défendez</em>, vous gagnez toujours +1 de retenue, même sur un 6-. Sur 12+, au lieu d’une retenue, votre adversaire le plus proche est entravé et vous obtenez un net avantage. Lae MJ vous dira lequel.</p>"
         },
         {
             "id": "Indomitable",
@@ -86,7 +90,9 @@
         {
             "id": "Lay On Hands",
             "name": "Imposition des mains",
-            "description": "<p>Quand vous touchez une personne à même la peau et priez pour son bien-être, lancez 2d6+CHA. Sur 10+ vous soignez 1d8 dégâts ou guérissez une maladie. Sur 7-9, elle est soignée mais les dégâts ou la maladie vous sont transférés.</p>"
+            "description": "<p>Quand vous touchez une personne à même la peau et priez pour son bien-être, lancez 2d6+CHA.</p>",
+			"partial": "<p>Elle est soignée mais les dégâts ou la maladie vous sont transférés.<p>",
+			"success": "<p>Vous soignez 1d8 dégâts ou guérissez une maladie.</p>"
         },
         {
             "id": "Perfect Hospitaller",
@@ -101,7 +107,7 @@
         {
             "id": "Quest",
             "name": "Quête",
-            "description": "<p>Quand vous vous consacrez à une mission par la prière et un rituel de purification, déclarez sa nature :</p>\n<ul>\n<li>Pourfendre _____________, une grande plaie sur cette terre.</li>\n<li>Défendre _______________ des injustices qui le(s) frappent.</li>\n<li>Découvrir la vérité sur _____________.</li>\n</ul>\n<p>Choisissez alors jusqu’à deux bénédictions :</p>\n<ul>\n<li>Un indéfectible sens de l’orientation vers _____________.</li>\n<li>L’invulnérabilité à ___________ (par ex. les armes tranchantes, le feu, les enchantements, etc.).</li>\n<li>Une marque d’autorité divine.</li>\n<li>La révélation innée des mensonges.</li>\n<li>Une voix qui sublime la parole.</li>\n<li>Une insensibilité à la faim, à la soif ou au sommeil.</li>\n</ul>\n<p>Le MJ vous indiquera le ou les vœux que vous devez respecter pour maintenir ces bénédictions :</p>\n<ul>\n<li>Honneur (interdiction : des manœuvres ou des ruses de lâche).</li>\n<li>Tempérance (interdiction : la goinfrerie, l’ivresse et les plaisirs de la chair).</li>\n<li>Piété (obligation : le respect des services quotidiens)</li>\n<li>Valeur (interdiction : tolérer la survie d’une créature mauvaise)</li>\n<li>Vérité (interdiction : le mensonge)</li>\n<li>Hospitalité (obligation : réconfort des nécessiteux, quels qu’ils soient).</li>\n</ul>"
+            "description": "<p>Quand vous vous consacrez à une mission par la prière et un rituel de purification, déclarez sa nature :</p>\n<ul>\n<li>Pourfendre _____________, une grande plaie sur cette terre.</li>\n<li>Défendre _______________ des injustices qui le(s) frappent.</li>\n<li>Découvrir la vérité sur _____________.</li>\n</ul>\n<p>Choisissez alors jusqu’à deux bénédictions :</p>\n<ul>\n<li>Un indéfectible sens de l’orientation vers _____________.</li>\n<li>L’invulnérabilité à ___________ (par ex. les armes tranchantes, le feu, les enchantements, etc.).</li>\n<li>Une marque d’autorité divine.</li>\n<li>La révélation innée des mensonges.</li>\n<li>Une voix qui sublime la parole.</li>\n<li>Une insensibilité à la faim, à la soif ou au sommeil.</li>\n</ul>\n<p>Lae MJ vous indiquera le ou les vœux que vous devez respecter pour maintenir ces bénédictions :</p>\n<ul>\n<li>Honneur (interdiction : des manœuvres ou des ruses de lâche).</li>\n<li>Tempérance (interdiction : la goinfrerie, l’ivresse et les plaisirs de la chair).</li>\n<li>Piété (obligation : le respect des services quotidiens)</li>\n<li>Valeur (interdiction : tolérer la survie d’une créature mauvaise)</li>\n<li>Vérité (interdiction : le mensonge)</li>\n<li>Hospitalité (obligation : réconfort des nécessiteux, quels qu’ils soient).</li>\n</ul>"
         },
         {
             "id": "Setup Strike",
@@ -121,7 +127,7 @@
         {
             "id": "Tandem Strike",
             "name": "Coude à coude",
-            "description": "<p><em>Remplace : Attaque concertée</em></p>\n<p>Quand vous <em>taillez en pièces</em>, choisissez un allié. Sa prochaine attaque contre votre adversaire inflige +1d4 dégâts et il gagne +1 à sa prochaine action.</p>"
+            "description": "<p><em>Remplace : Attaque concertée</em></p>\n<p>Quand vous <em>taillez en pièces</em>, choisissez un·e allié·e. Sa prochaine attaque contre votre adversaire inflige +1d4 dégâts et iel gagne +1 à sa prochaine action.</p>"
         },
         {
             "id": "Voice Of Authority",
