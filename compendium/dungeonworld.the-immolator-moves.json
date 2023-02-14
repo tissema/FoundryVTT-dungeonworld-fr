@@ -61,7 +61,7 @@
         {
             "id": "From Hell’s Heart",  
             "name": "Flammes de l'Enfer",
-            "description": "<p>Chaque fois que vous invoquez du feu avec l'une de vos manoeuvres, vous pouvez le remplacer par les flammes noires de l'enfer lui-même. Ce feu n'émet pas de chaleur et ignore les armures, brûlant l'âme elle-même. Les créatures sans âme ne peuvent être blessées par ce type de flamme.</p>"
+            "description": "<p>Chaque fois que vous invoquez du feu avec l'une de vos actions, vous pouvez le remplacer par les flammes noires de l'enfer. Ce feu n'émet pas de chaleur mais brûle l'âme elle-même, ignorant les armures. Les créatures sans âme ne peuvent être blessées par ce type de flamme.</p>"
         },
         {
             "id": "Give Me Fuel, Give Me Fire",
